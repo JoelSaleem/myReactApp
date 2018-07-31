@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/JoelSaleem/myReactApp/issues"
   },
-  "homepage": "https://github.com/JoelSaleem/myReactApp#readme"
+  "homepage": "https://github.com/JoelSaleem/myReactApp#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "nodemon": "^1.18.3",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
 }
